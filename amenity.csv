@@ -1,0 +1,6 @@
+"amenity_id","amenity_level","description"
+1,"Basic","wifi,heating,air-conditioning"
+2,"Standard","wifi,heating,air-conditioning,hair dryer,iron"
+3,"Comfort","wifi,heating,air-conditioning,hair dryer,iron,TV,Kitchen"
+4,"Premium","wifi,heating,air-conditioning,hair dryer,iron,TV,Kitchen,Patio,Hot water"
+5,"Luxury","wifi,heating,air-conditioning,hair dryer,iron,TV,Kitchen,Patio,Hot water,Fire pit,BBQ grill"
